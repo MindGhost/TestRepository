@@ -21,5 +21,7 @@ public class TestApp
 		System.out.println("Instance 4 count: " + inst4.getInstanceCount());
 		
 		System.out.println("Hello, World!");
+		
+		System.out.println("Fix brahc changed this file");
 	}
 }
