@@ -19,5 +19,7 @@ public class TestApp
 		
 		System.out.println("Instance 4 number: " + inst4.getInstanceNumber());
 		System.out.println("Instance 4 count: " + inst4.getInstanceCount());
+		
+		System.out.println("Hello, World!");
 	}
 }
